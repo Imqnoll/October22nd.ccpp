@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="October22nd.ccpp/October22nd.ccpp.vcxproj" />
+</Solution>
